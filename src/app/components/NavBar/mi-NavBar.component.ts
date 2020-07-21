@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
     // tslint:disable-next-line:component-selector
     selector: 'mi-componente',
     template: `
-    <h1> Card View </h1>
+    <h1> TOORING PAGE </h1>
     `
 })
 
