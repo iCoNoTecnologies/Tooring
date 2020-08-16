@@ -1,5 +1,5 @@
 
-
+@import url(//db.onlinewebfonts.com/c/116d187134420de5733c7c45bbc80c46?family=LuloCleanW01-One);
 
 .mat-slider{
     
@@ -48,13 +48,6 @@
   }
   
 
-  @media (min-width: 700px) { 
-
-  .button_sec1{
-    margin-top: 70%;
-    
-    }
-   }
 
 
     /* The Overlay (background) */
@@ -103,6 +96,140 @@
   right: 45px;
   font-size: 60px;
 }
+.text1{
+  
+  height: 400px;
+ 
+}
+.text1 strong{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #FF5964;
+}
+.text1 p{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #fc8f96;
+}
 
+
+.text2{
+  
+  height: 400px;
+ 
+}
+.text2 strong{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #052360;
+}
+.text2 p{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #395999;
+}
+
+
+.text3{
+  
+  height: 400px;
+ 
+}
+.text3 strong{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #5e258b;
+}
+.text3 p{
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #395999;
+}
+
+
+.text1Align{
+  margin-top: 200px;
+  margin-left: 120px;
+}
+.fondo1{
+  background-image: url('http://itooring.com/images/Seccion1/1.0_3.png'); -webkit-background-size: 100% 100%;  
+-moz-background-size: 100% 100%;          
+  -o-background-size: 100% 100%;         
+     background-size: 100% 100%;
+}
+.fondo2{
+  background-image: url('http://itooring.com/images/Seccion3/3.0.png'); -webkit-background-size: 100% 100%;  
+-moz-background-size: 100% 100%;          
+  -o-background-size: 100% 100%;         
+     background-size: 100% 100%;
+}
+
+.fondo3{
+  background-image: url('http://itooring.com/images/Seccion5/5.0.png'); -webkit-background-size: 100% 100%;  
+-moz-background-size: 100% 100%;          
+  -o-background-size: 100% 100%;         
+     background-size: 100% 100%;
+}
+.container_robot{
+  height: 850px; min-width: max-content; margin-left: 1%; align-items: center;
+}
+
+.Robot{
+ 
+  width: 400px;
+  height: 600px;
+    
+}
+
+.Sistema_solar{
+ margin-top: 15%;
+  width: 500px;
+  height: 500px;
+    
+}
+
+.text_seccion3{
+  margin-top: 5%;
+  font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+  color: #fcfcfc;
+
+}
+
+@media screen and (max-height: 900px) {
+  .text1{
+  width: 400px;
+    height: 150px;
+   
+  }
+  .text1 strong{
+    font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    color: #FF5964;
+  }
+  .text1 p{
+    font-family: lulo clean -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    color: #fc8f96;
+  }
+  
+  .text1Align{
+    margin-top: 50px;
+    margin-left: 5%;
+  }
+  .fondo1{
+    background-image: url('http://itooring.com/images/Seccion1/1.0_3.png'); 
+  }
+  .container_robot{
+    height: 300px; min-width: max-content; margin-left: 3%; align-items: center;
+  }
+
+  .Robot{
+ 
+    width: 150px;
+    height: 150px;
+      
+  }
+}
 
  

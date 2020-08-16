@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
     // tslint:disable-next-line:component-selector
     selector: 'mi-componente',
     template: `
-    <h1> TOORING PAGE </h1>
+    <div style="margin-left: 3%; margin-top:10px;"><img src="http://itooring.com/images/Seccion1/LOGO.png"  width="140" height="28"></div>
     `
 })
 
